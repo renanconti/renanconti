@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, i am Renan, thanks for visiting 👋
 
 <!--
 **renanconti/renanconti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
